@@ -1,0 +1,7 @@
+streamlit
+torch
+openai-whisper
+numpy
+chromadb
+sentence-transformers
+streamlit-webrtc
